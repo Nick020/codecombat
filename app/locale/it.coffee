@@ -1152,7 +1152,7 @@ module.exports = nativeDescription: "Italiano", englishDescription: "Italian", t
 #    facebook_status: "Facebook Status"
     facebook_friends: "Amici Facebook"
     facebook_friend_sessions: "Sessioni amici Facebook"
-    gplus_friends: "Amici G+"
+    gplus_friends: "Amici Google +"
     gplus_friend_sessions: "Sessioni amici G+"
     leaderboard: "Classifica"
 #    user_schema: "User Schema"
